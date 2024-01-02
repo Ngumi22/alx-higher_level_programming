@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def pow_decimal(a, b):
+def pow(a, b):
     result = a ** b
     return result
