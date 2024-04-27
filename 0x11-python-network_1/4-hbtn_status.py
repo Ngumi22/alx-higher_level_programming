@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""fetches https://alx-intranet.hbtn.io/status using request"""
 import requests
 
 url = 'https://alx-intranet.hbtn.io/status'
